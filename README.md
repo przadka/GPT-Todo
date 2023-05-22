@@ -1,1 +1,1 @@
-A super simple pluing for Chat GPT based on one of the [official examples](https://platform.openai.com/docs/plugins/examples). You need to run it locally and add it to your Chat GPT poiting to localhost.
+A super simple pluing for Chat GPT based on one of the [official examples](https://platform.openai.com/docs/plugins/examples). You need to run it locally and add it to your Chat GPT pointing to localhost.
